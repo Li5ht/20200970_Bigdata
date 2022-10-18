@@ -1,0 +1,5 @@
+Hello, Python World!
+Beautiful is better than ugly.
+Eplicit is better than implicit.
+Simple is better than complex.
+Comple is better than coomplicated.
